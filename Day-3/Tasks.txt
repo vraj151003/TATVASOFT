@@ -1,0 +1,2 @@
+1) access variables from .ts to html (Expression Language)
+2) Create Component Home and demonstrate the route and display the alert 
